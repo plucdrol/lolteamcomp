@@ -1,1 +1,1 @@
-# lolteamcomp
+# League of Legends Team Composition Picker
